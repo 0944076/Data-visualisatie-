@@ -1,0 +1,19 @@
+C:\Users\Ricardo\source\repos\Workshops\17-18 OP3 project\MSSQLConnectionCSharp\MSSQLConnectionCSharp\bin\Debug\MSSQLConnectionCSharp.exe.config
+C:\Users\Ricardo\source\repos\Workshops\17-18 OP3 project\MSSQLConnectionCSharp\MSSQLConnectionCSharp\bin\Debug\MSSQLConnectionCSharp.exe
+C:\Users\Ricardo\source\repos\Workshops\17-18 OP3 project\MSSQLConnectionCSharp\MSSQLConnectionCSharp\bin\Debug\MSSQLConnectionCSharp.pdb
+C:\Users\Ricardo\source\repos\Workshops\17-18 OP3 project\MSSQLConnectionCSharp\MSSQLConnectionCSharp\bin\Debug\FileHelpers.dll
+C:\Users\Ricardo\source\repos\Workshops\17-18 OP3 project\MSSQLConnectionCSharp\MSSQLConnectionCSharp\bin\Debug\FileHelpers.xml
+C:\Users\Ricardo\source\repos\Workshops\17-18 OP3 project\MSSQLConnectionCSharp\MSSQLConnectionCSharp\obj\Debug\MSSQLConnectionCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\source\repos\Workshops\17-18 OP3 project\MSSQLConnectionCSharp\MSSQLConnectionCSharp\obj\Debug\MSSQLConnectionCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\Workshops\17-18 OP3 project\MSSQLConnectionCSharp\MSSQLConnectionCSharp\obj\Debug\MSSQLConnectionCSharp.exe
+C:\Users\Ricardo\source\repos\Workshops\17-18 OP3 project\MSSQLConnectionCSharp\MSSQLConnectionCSharp\obj\Debug\MSSQLConnectionCSharp.pdb
+C:\Users\ibrahim\Documents\HR\project 3\MSSQLConnectionCSharp\MSSQLConnectionCSharp\obj\Debug\MSSQLConnectionCSharp.csprojAssemblyReference.cache
+C:\Users\ibrahim\Documents\HR\project 3\MSSQLConnectionCSharp\MSSQLConnectionCSharp\obj\Debug\MSSQLConnectionCSharp.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\Documents\HR\project 3\MSSQLConnectionCSharp\MSSQLConnectionCSharp\obj\Debug\MSSQLConnectionCSharp.exe
+C:\Users\ibrahim\Documents\HR\project 3\MSSQLConnectionCSharp\MSSQLConnectionCSharp\obj\Debug\MSSQLConnectionCSharp.pdb
+C:\Users\ibrahim\Documents\HR\project 3\MSSQLConnectionCSharp\MSSQLConnectionCSharp\bin\Debug\MSSQLConnectionCSharp.exe.config
+C:\Users\ibrahim\Documents\HR\project 3\MSSQLConnectionCSharp\MSSQLConnectionCSharp\bin\Debug\MSSQLConnectionCSharp.exe
+C:\Users\ibrahim\Documents\HR\project 3\MSSQLConnectionCSharp\MSSQLConnectionCSharp\bin\Debug\MSSQLConnectionCSharp.pdb
+C:\Users\ibrahim\Documents\HR\project 3\MSSQLConnectionCSharp\MSSQLConnectionCSharp\bin\Debug\FileHelpers.dll
+C:\Users\ibrahim\Documents\HR\project 3\MSSQLConnectionCSharp\MSSQLConnectionCSharp\bin\Debug\FileHelpers.xml
+C:\Users\ibrahim\Documents\HR\project 3\MSSQLConnectionCSharp\MSSQLConnectionCSharp\obj\Debug\MSSQLConnectionCSharp.csproj.CopyComplete
